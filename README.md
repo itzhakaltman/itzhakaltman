@@ -1,5 +1,4 @@
-# Hi there 👋 
-# I'm Itzhak
+# Hi there 👋  I'm Itzhak
 
 - 🇮🇱  I live in Bnei Brak, Israel
 - 📲 I'm currently working in [floLIVE](https://flolive.net/)
