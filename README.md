@@ -1,7 +1,7 @@
 # Hi there 👋  I'm Itzhak
 
 - 🇮🇱  I live in Bnei Brak, Israel
-- 📲 I'm currently working in [floLIVE](https://flolive.net/)
+- 📲 I'm currently working for [floLIVE](https://flolive.net/)
 
 ## 🛠 Technologies I've been using and learning so far:  
 
