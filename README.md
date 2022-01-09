@@ -23,7 +23,7 @@
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 
 
-- Monitoring:
+- Monitoring:  
 ![prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
 ![grafana](https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 ![elastic](https://img.shields.io/badge/elastic-%23005571.svg?&style=for-the-badge&logo=elastic&logoColor=white)
