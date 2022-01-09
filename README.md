@@ -4,6 +4,14 @@
 
 ## 🛠 Technologies I've been using and learning so far:  
 
+- Infrastructure:  
+![k8s](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins%20x-%2373C3D5.svg?&style=for-the-badge&logo=jenkins%20x&logoColor=black)
+![ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white)
+
 
 - Backend:  
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -15,9 +23,11 @@
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 
 
-- Infrastructure:  
-![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![k8s](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+- Monitoring
+![prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
+![elastic](https://img.shields.io/badge/elastic-%23005571.svg?&style=for-the-badge&logo=elastic&logoColor=white)
+![kibana](https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white)
 
 ## 📊 Fancy stats
 [![](https://github-readme-stats.vercel.app/api?username=itzhakaltman)](https://github.com/itzhakaltman)
