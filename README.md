@@ -10,6 +10,7 @@
 ![proxmox](https://img.shields.io/badge/proxmox-%23E57000.svg?&style=for-the-badge&logo=proxmox&logoColor=white)
 ![jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
 ![ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+![helm](https://img.shields.io/badge/helm-%230F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
 ![terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 
 
@@ -31,8 +32,10 @@
 ![elastic](https://img.shields.io/badge/elastic-%23005571.svg?&style=for-the-badge&logo=elastic&logoColor=white)
 ![kibana](https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white)
 
+
 ## 📊 Fancy stats
 [![](https://github-readme-stats.vercel.app/api?username=itzhakaltman)](https://github.com/itzhakaltman)
+
 
 ## 🤝 Connect with me  
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzhakaltman/) 
