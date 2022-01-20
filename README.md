@@ -37,11 +37,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=itzhakaltman)](https://github.com/itzhakaltman)
 
 
-## 🤝 Connect with me  
-[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzhakaltman/) 
-
-
-
 <!---
 itzhakaltman/itzhakaltman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
